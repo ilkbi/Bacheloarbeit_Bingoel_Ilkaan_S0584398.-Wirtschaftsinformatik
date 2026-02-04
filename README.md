@@ -84,3 +84,14 @@ Datenschutz
 - Keine DSGVO-relevanten Inhalte
 - Keine Speicherung von API-Keys im Repository
 
+Ablageort
+
+Repository-Struktur:
+README.md – Projektbeschreibung und Dokumentation
+prototyp_kaltakquise.py – vollständiger Python-Quellcode des Prototyps
+LICENSE – MIT License
+
+Zugriff:
+
+Öffentliches GitHub-Repository
+Nutzung ausschließlich zu Forschungs- und Demonstrationszwecken im Rahmen der Bachelorarbeit
