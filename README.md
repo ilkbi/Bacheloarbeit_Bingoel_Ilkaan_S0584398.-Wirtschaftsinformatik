@@ -87,6 +87,7 @@ Datenschutz
 Ablageort
 
 Repository-Struktur:
+
 README.md – Projektbeschreibung und Dokumentation
 prototyp_kaltakquise.py – vollständiger Python-Quellcode des Prototyps
 LICENSE – MIT License
