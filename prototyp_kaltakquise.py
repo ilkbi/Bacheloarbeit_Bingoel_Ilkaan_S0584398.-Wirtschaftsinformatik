@@ -6,7 +6,7 @@ import json
 from datetime import datetime
 
 import os
-API_KEY=""
+API_KEY="YOUR_OPENAI_API_KEY_HERE"
 from openai import OpenAI
 import re
 import time
