@@ -29,7 +29,7 @@ Alle verwendeten Kundendaten wurden synthetisch erzeugt und repräsentieren kein
 Die E-Mail-Texte wurden durch ein Large Language Model auf Basis dieser synthetischen Daten generiert.
 
 Lizenz (Software):
-MIT License
+Dieses Projekt ist unter der MIT License lizenziert – siehe Datei `LICENSE`.
 
 Identifier:
 Kein DOI vergeben (lokaler Forschungsprototyp im Rahmen einer Bachelorarbeit).
